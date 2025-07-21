@@ -45,7 +45,7 @@ local webhookUrl = "https://discord.com/api/webhooks/1396732836685414490/zvv4mUQ
 local data = {
     ["content"] = "**Success To Execute Script!**",
     ["embeds"] = {{
-        ["title"] = "W-Skinny Hub Executado!",
+        ["title"] = "Ktc Hub Executado Con Exito!",
         ["description"] = string.format("**%s | Nickname of Player**", username),
         ["color"] = 0x00FFFF,
         ["thumbnail"] = {["url"] = avatarUrl},
